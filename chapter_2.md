@@ -1,3 +1,5 @@
+## Table of contents
+
 1. [Section 2.1 Information Storage](#section-21-information-storage)
    1. [Page 73, Practice Problem 2.1](#page-73-practice-problem-21-solution-page-179)
 2. [Section 2.2 Integer Representations](#section-22-integer-representations)
@@ -7,7 +9,8 @@
    1. [Page 131, Practice Problem 2.33](#page-131-practice-problem-233-solution-page-189)
 4. [Section 2.4 Floating Point](#section-24-floating-point)
    1. [Page 147, Practice Problem 2.45](#page-147-practice-problem-245-solution-page-193)
-  
+
+---
 
 ## Section 2.1 Information Storage
 ### Page 73, Practice Problem 2.1 <small>(solution page 179)</small>
